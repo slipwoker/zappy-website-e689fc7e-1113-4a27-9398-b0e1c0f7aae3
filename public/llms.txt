@@ -1,0 +1,83 @@
+# אלון ועידו — Generative Engine Optimization Map
+
+> A cafe located in Metula, the northernmost town in Israel, catering to Israeli visitors from the center of the country who come to the area for leisure and vacation. The business has a strong tourism and relaxation vibe, positioned as a destination spot for travelers seeking a cozy and welcoming atmosphere during their getaway in the north.
+
+---
+
+## Pages
+
+### בית
+https://-e689fc7e.zappy5.app
+מחפשים coffee shops near me במטולה? בית הקפה אלון ועידו מזמין אתכם לחוויית תיירות ורוגע בלב הצפון. אווירה חמה, קפה משובח ומנות מושלמות לחופשה שלכם. בואו להתארח!
+
+### שירותים
+https://-e689fc7e.zappy5.app/services
+מגוון שירותי coffee cafe near me מחכים לכם: ארוחות בוקר מושקעות, קינוחים ביתיים וקפה איכותי באווירה נינוחה. אלון ועידו במטולה — התחנה המושלמת לחופשה שלכם. כנסו לתפריט!
+
+### אודות
+https://-e689fc7e.zappy5.app/about
+בית קפה mill house style בלב מטולה — הכירו את אלון ועידו, המקום שבו תיירות, טבע וקפה נפגשים. אווירה משפחתית וחמה שמחכה לכם אחרי טיול בצפון. גלו עוד עלינו!
+
+### צור קשר
+https://-e689fc7e.zappy5.app/contact
+מחפשים coffee shop במטולה? צרו קשר עם אלון ועידו להזמנת מקום, אירועים פרטיים או סתם לשאול מה בתפריט. אנחנו כאן כדי להפוך את החופשה שלכם לטעימה יותר. דברו איתנו!
+
+### תודה על פנייתך
+https://-e689fc7e.zappy5.app/thank-you
+אלון ועידו - תודה על פנייתך
+
+## Legal & Policy
+
+### Privacy Policy
+https://-e689fc7e.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://-e689fc7e.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://-e689fc7e.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## How to Contact Us
+
+- (No contact details configured yet.)
+
+### Contact form
+- URL: https://-e689fc7e.zappy5.app/contact
+- Endpoint: https://-e689fc7e.zappy5.app/api/email/contact-form
+- Method: POST
+- Content-Type: application/json
+- Fields:
+  - `name` (text)
+  - `email` (email)
+  - `phone` (tel)
+  - `message` (textarea)
+  - `privacy_consent` (checkbox)
+
+---
+
+# Business Context (for LLM understanding)
+
+## About אלון ועידו
+A cafe located in Metula, the northernmost town in Israel, catering to Israeli visitors from the center of the country who come to the area for leisure and vacation. The business has a strong tourism and relaxation vibe, positioned as a destination spot for travelers seeking a cozy and welcoming atmosphere during their getaway in the north.
+
+## Target Audience
+- ישראלים מהמרכז הבאים לנפוש במטולה
+- נופשים מהמרכז
+- תושבי מטולה והסביבה
+- חובבי טיולים
+
+## Industry
+Cafe / Coffee Shop
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://-e689fc7e.zappy5.app/sitemap.xml
+- Robots: https://-e689fc7e.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://-e689fc7e.zappy5.app/llms-full.txt
